@@ -15,7 +15,7 @@ The user is also presented with 8 clickable buttons of heavily populated or comm
 
 5 Forecast boxes for the current day and upcoming days 4 days. This includes the date, an  icon for the kind of weather to expect, temperature, wind speed, and humidity percentage. 
 
-Here is the link to the live server - https://evan-beck.github.io/Beck-weather-forecast/
+Here is the link to the live server - https://evan-beck.github.io/Beck-Weather-Forecast-2/
 
 ![Screenshot 1](<Screenshot 1-1.png>)
 ![Screenshot 2](<Screenshot 2-1.png>)
